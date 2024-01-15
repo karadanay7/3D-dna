@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-black overflow-hidden">
     <div class="flex flex-row h-screen w-full font-index">
       <div
-        class="absolute sm:relative text-3xl md:text-5xl lg:text-6xl text-gray-200 flex flex-col w-full lg:w-1/2 tracking-wider font-index pt-44 lg:pt-20 p-4 md:pl-12"
+        class="absolute sm:relative text-3xl md:text-5xl lg:text-6xl text-gray-200 flex flex-col w-full lg:w-1/2 tracking-wider font-index pt-44 lg:pt-32 p-4 md:pl-12"
       >
         <h1>Welcome to 3D world, Design for the Future</h1>
 
